@@ -1,2 +1,1 @@
-# beegi.github.io
-eine weitere website
+My personal web page: https://beegi.github.io/.
