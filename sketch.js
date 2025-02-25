@@ -8,7 +8,7 @@ function setup() {
 }
 
 function draw() {
-  background(250);
+  background(252);
   stroke(51);
   strokeWeight(1.2);
   var hoehe = radius * sin(PI / 3);
